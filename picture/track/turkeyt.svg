@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.6, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg width="768px" height="600px"  version="1.1" id="Livello_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 768 600" style="enable-background:new 0 0 768 600;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#0C111B;}
+	.st1{filter:url(#filter-2);}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#A0D9E2;}
+	.st4{filter:url(#filter-4);}
+	.st5{filter:url(#filter-6);}
+	.st6{filter:url(#filter-8);}
+	.st7{filter:url(#filter-10);}
+	.st8{filter:url(#filter-12);}
+	.st9{filter:url(#filter-14);}
+	.st10{filter:url(#filter-16);}
+	.st11{filter:url(#filter-18);}
+	.st12{filter:url(#filter-20);}
+	.st13{filter:url(#filter-22);}
+	.st14{filter:url(#filter-24);}
+	.st15{filter:url(#filter-26);}
+	.st16{filter:url(#filter-28);}
+	.st17{filter:url(#filter-30);}
+	.st18{filter:url(#filter-32);}
+	.st19{filter:url(#filter-34);}
+	.st20{filter:url(#filter-36);}
+	.st21{filter:url(#filter-38);}
+	.st22{filter:url(#filter-40);}
+	.st23{fill:none;stroke:#011321;stroke-width:2;}
+	.st24{fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#011321;stroke-width:2;}
+	.st25{fill:#1D1D1B;}
+	.st26{font-family:'NeueHaasUnicaPro-Bold, Neue Haas Unica Pro';}
+	.st27{font-size:12px;}
+	.st28{letter-spacing:-1;}
+</style>
+<filter  filterUnits="objectBoundingBox" height="530.8%" id="filter-8" width="530.8%" x="-215.4%" y="-153.8%">
+	<feOffset  dx="0" dy="16" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+	<feGaussianBlur  in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="16"></feGaussianBlur>
+	
+		<feColorMatrix  in="shadowBlurOuter1" type="matrix" values="0 0 0 0 0.628825005   0 0 0 0 0.850290581   0 0 0 0 0.886973505  0 0 0 0.3 0">
+		</feColorMatrix>
+</filter>
+<filter  filterUnits="objectBoundingBox" height="530.8%" id="filter-6" width="530.8%" x="-215.4%" y="-153.8%">
+	<feOffset  dx="0" dy="16" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+	<feGaussianBlur  in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="16"></feGaussianBlur>
+	
+		<feColorMatrix  in="shadowBlurOuter1" type="matrix" values="0 0 0 0 0.628825005   0 0 0 0 0.850290581   0 0 0 0 0.886973505  0 0 0 0.3 0">
+		</feColorMatrix>
+</filter>
+<filter  filterUnits="objectBoundingBox" height="530.8%" id="filter-4" width="530.8%" x="-215.4%" y="-153.8%">
+	<feOffset  dx="0" dy="16" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+	<feGaussianBlur  in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="16"></feGaussianBlur>
+	
+		<feColorMatrix  in="shadowBlurOuter1" type="matrix" values="0 0 0 0 0.628825005   0 0 0 0 0.850290581   0 0 0 0 0.886973505  0 0 0 0.3 0">
+		</feColorMatrix>
+</filter>
+<filter  filterUnits="objectBoundingBox" height="530.8%" id="filter-28" width="530.8%" x="-215.4%" y="-153.8%">
+	<feOffset  dx="0" dy="16" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+	<feGaussianBlur  in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="16"></feGaussianBlur>
+	
+		<feColorMatrix  in="shadowBlurOuter1" type="matrix" values="0 0 0 0 0.628825005   0 0 0 0 0.850290581   0 0 0 0 0.886973505  0 0 0 0.3 0">
+		</feColorMatrix>
+</filter>
+<filter  filterUnits="objectBoundingBox" height="530.8%" id="filter-26" width="530.8%" x="-215.4%" y="-153.8%">
+	<feOffset  dx="0" dy="16" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+	<feGaussianBlur  in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="16"></feGaussianBlur>
+	
+		<feColorMatrix  in="shadowBlurOuter1" type="matrix" values="0 0 0 0 0.628825005   0 0 0 0 0.850290581   0 0 0 0 0.886973505  0 0 0 0.3 0">
+		</feColorMatrix>
+</filter>
+<filter  filterUnits="objectBoundingBox" height="530.8%" id="filter-24" width="530.8%" x="-215.4%" y="-153.8%">
+	<feOffset  dx="0" dy="16" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+	<feGaussianBlur  in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="16"></feGaussianBlur>
+	
+		<feColorMatrix  in="shadowBlurOuter1" type="matrix" values="0 0 0 0 0.628825005   0 0 0 0 0.850290581   0 0 0 0 0.886973505  0 0 0 0.3 0">
+		</feColorMatrix>
+</filter>
+<filter  filterUnits="objectBoundingBox" height="530.8%" id="filter-22" width="530.8%" x="-215.4%" y="-153.8%">
+	<feOffset  dx="0" dy="16" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+	<feGaussianBlur  in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="16"></feGaussianBlur>
+	
+		<feColorMatrix  in="shadowBlurOuter1" type="matrix" values="0 0 0 0 0.628825005   0 0 0 0 0.850290581   0 0 0 0 0.886973505  0 0 0 0.3 0">
+		</feColorMatrix>
+</filter>
+<filter  filterUnits="objectBoundingBox" height="530.8%" id="filter-20" width="530.8%" x="-215.4%" y="-153.8%">
+	<feOffset  dx="0" dy="16" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+	<feGaussianBlur  in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="16"></feGaussianBlur>
+	
+		<feColorMatrix  in="shadowBlurOuter1" type="matrix" values="0 0 0 0 0.628825005   0 0 0 0 0.850290581   0 0 0 0 0.886973505  0 0 0 0.3 0">
+		</feColorMatrix>
+</filter>
+<filter  filterUnits="objectBoundingBox" height="530.8%" id="filter-2" width="530.8%" x="-215.4%" y="-153.8%">
+	<feOffset  dx="0" dy="16" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+	<feGaussianBlur  in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="16"></feGaussianBlur>
+	
+		<feColorMatrix  in="shadowBlurOuter1" type="matrix" values="0 0 0 0 0.628825005   0 0 0 0 0.850290581   0 0 0 0 0.886973505  0 0 0 0.3 0">
+		</feColorMatrix>
+</filter>
+<filter  filterUnits="objectBoundingBox" height="530.8%" id="filter-18" width="530.8%" x="-215.4%" y="-153.8%">
+	<feOffset  dx="0" dy="16" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+	<feGaussianBlur  in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="16"></feGaussianBlur>
+	
+		<feColorMatrix  in="shadowBlurOuter1" type="matrix" values="0 0 0 0 0.628825005   0 0 0 0 0.850290581   0 0 0 0 0.886973505  0 0 0 0.3 0">
+		</feColorMatrix>
+</filter>
+<filter  filterUnits="objectBoundingBox" height="530.8%" id="filter-16" width="530.8%" x="-215.4%" y="-153.8%">
+	<feOffset  dx="0" dy="16" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+	<feGaussianBlur  in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="16"></feGaussianBlur>
+	
+		<feColorMatrix  in="shadowBlurOuter1" type="matrix" values="0 0 0 0 0.628825005   0 0 0 0 0.850290581   0 0 0 0 0.886973505  0 0 0 0.3 0">
+		</feColorMatrix>
+</filter>
+<filter  filterUnits="objectBoundingBox" height="530.8%" id="filter-14" width="530.8%" x="-215.4%" y="-153.8%">
+	<feOffset  dx="0" dy="16" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+	<feGaussianBlur  in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="16"></feGaussianBlur>
+	
+		<feColorMatrix  in="shadowBlurOuter1" type="matrix" values="0 0 0 0 0.628825005   0 0 0 0 0.850290581   0 0 0 0 0.886973505  0 0 0 0.3 0">
+		</feColorMatrix>
+</filter>
+<filter  filterUnits="objectBoundingBox" height="530.8%" id="filter-12" width="530.8%" x="-215.4%" y="-153.8%">
+	<feOffset  dx="0" dy="16" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+	<feGaussianBlur  in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="16"></feGaussianBlur>
+	
+		<feColorMatrix  in="shadowBlurOuter1" type="matrix" values="0 0 0 0 0.628825005   0 0 0 0 0.850290581   0 0 0 0 0.886973505  0 0 0 0.3 0">
+		</feColorMatrix>
+</filter>
+<filter  filterUnits="objectBoundingBox" height="530.8%" id="filter-10" width="530.8%" x="-215.4%" y="-153.8%">
+	<feOffset  dx="0" dy="16" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+	<feGaussianBlur  in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="16"></feGaussianBlur>
+	
+		<feColorMatrix  in="shadowBlurOuter1" type="matrix" values="0 0 0 0 0.628825005   0 0 0 0 0.850290581   0 0 0 0 0.886973505  0 0 0 0.3 0">
+		</feColorMatrix>
+</filter>
+<path class="st24" d="M531.2,358.7c-35.4,2.5-45.8,6.6-63.5,11.9c-15.7,4.6-34.7,15.3-44.5,21.3c-10,6.8-23.2,14.4-29.3,30.4
+	c-5.3,15.8-5.4,22.6-1.9,35.9l9.3,30.9c0.4,1.8,0.7,7.4-2.5,10.2c-3.2,2.8-9.6,5.2-15.9,6.4l-262.3,53.9c-3.1,0.9-7.1,1.1-10.4-1
+	c-3.6-3.2-4.7-7-4.1-11.1c0.5-4.5,0.9-4.8,1.4-9.3c0.8-7,2.8-13.3,3.2-19.6c1.5-6.1-1.4-10.4-5.7-9.9l-12.4,1
+	c-4.6,0.2-13.3,0.9-17.8-10.2c-5.5-11.4,2.6-18.1,6.7-19.8L328,345.7c7.1-3.9,14.3-8.7,19.1-14.8c4.5-5.7,6.8-12.4,10.2-22.5
+	l53.5-169c2.5-9,3.9-9.2,3.5-15.3c-2.4-10.5-8.1-17.6-11.7-23.3c-4.9-9.2-0.5-15.4,10.2-19l33.4-11.4l163.5-48.6
+	c10.3-3.7,28-6.6,39.6,1.7c18.5,14.9,26.7,25.9,38.3,44.8c3.9,7.6,5.4,13.2,2.9,21.5l-6.6,20.3c-1.4,6.5-6.2,12-11.2,14.8
+	l-24.2,13.2c-7.9,4-13.8,4.1-22.4,1.7c-31.8-8.9-64.5-16-97.7-22.1c-5.6-1-21.1-2.1-35.9,9.1c-4.6,3.4-13.3,12.5-3.9,21.8
+	c7.2,5.7,9.4,6.6,21,12.4l132.1,65.8c3.4,1.6,9.1,4.1,11.2,5.5c7.6,5.2,10.4,10.1,12,16.6l4.2,24.3c0.6,4-3.7,14.4-14.7,14.5
+	c-14.2,0-28.3-0.4-42.4-1.3c-3.9-0.4-10.8-0.5-9.5,7.8l3.9,26.4c0.8,5.3,0.7,12.2-1.6,18.2c-2.7,8.5-10.7,16-18.4,19.4
+	c-5.4,2-11,3.2-17.3,2.4C555.7,359,541.3,358.2,531.2,358.7L531.2,358.7z"/>
+<polygon id="Triangle_7_" class="st0" points="205.8,561.5 181.1,572.9 179,557.1 "/>
+<g id="POI-Copy-8_4_" transform="translate(3.000000, 8.000000)">
+	<g id="Oval_4_">
+		<g class="st1">
+			<circle id="path-1_1_" class="st2" cx="416.2" cy="497" r="13"/>
+		</g>
+		<g>
+			<circle class="st3" cx="416.2" cy="497" r="13"/>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 412.2972 501.0166)" class="st25 st26 st27 st28">1</text>
+</g>
+<g transform="translate(3.000000, 8.000000)">
+	<g>
+		<g class="st4">
+			<circle id="path-3_1_" class="st2" cx="429.2" cy="399.5" r="13"/>
+		</g>
+		<g>
+			<circle class="st3" cx="429.2" cy="399.5" r="13"/>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 425.2986 403.5242)" class="st25 st26 st27 st28">2</text>
+</g>
+<g transform="translate(3.000000, 8.000000)">
+	<g>
+		<g class="st5">
+			<circle id="path-5_1_" class="st2" cx="608.4" cy="364.1" r="13"/>
+		</g>
+		<g>
+			<circle class="st3" cx="608.4" cy="364.1" r="13"/>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 604.4271 368.1015)" class="st25 st26 st27 st28">3</text>
+</g>
+<g transform="translate(3.000000, 8.000000)">
+	<g>
+		<g class="st6">
+			<circle id="path-7_1_" class="st2" cx="622.4" cy="300.7" r="13"/>
+		</g>
+		<g>
+			<circle class="st3" cx="622.4" cy="300.7" r="13"/>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 618.4315 304.6503)" class="st25 st26 st27 st28">4</text>
+</g>
+<g transform="translate(3.000000, 8.000000)">
+	<g>
+		<g class="st7">
+			<circle id="path-9_1_" class="st2" cx="681.9" cy="278.1" r="13"/>
+		</g>
+		<g>
+			<circle class="st3" cx="681.9" cy="278.1" r="13"/>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 677.9944 282.1033)" class="st25 st26 st27 st28">5</text>
+</g>
+<g transform="translate(3.000000, 8.000000)">
+	<g>
+		<g class="st8">
+			<circle id="path-11_1_" class="st2" cx="668.9" cy="212.6" r="13"/>
+		</g>
+		<g>
+			<circle class="st3" cx="668.9" cy="212.6" r="13"/>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 664.994 216.629)" class="st25 st26 st27 st28">6</text>
+</g>
+<g transform="translate(3.000000, 8.000000)">
+	<g>
+		<g class="st9">
+			<circle id="path-13_1_" class="st2" cx="511.8" cy="130.5" r="13"/>
+		</g>
+		<g>
+			<circle class="st3" cx="511.8" cy="130.5" r="13"/>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 507.8602 134.483)" class="st25 st26 st27 st28">7</text>
+</g>
+<g transform="translate(3.000000, 8.000000)">
+	<g>
+		<g class="st10">
+			<circle id="path-15_1_" class="st2" cx="707.9" cy="62.5" r="13"/>
+		</g>
+		<g>
+			<circle class="st3" cx="707.9" cy="62.5" r="13"/>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 703.9935 66.53)" class="st25 st26 st27 st28">8</text>
+</g>
+<g transform="translate(3.000000, 8.000000)">
+	<g>
+		<g class="st11">
+			<circle id="path-17_1_" class="st2" cx="384.9" cy="64.9" r="13"/>
+		</g>
+		<g>
+			<circle class="st3" cx="384.9" cy="64.9" r="13"/>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 381.0071 68.9199)" class="st25 st26 st27 st28">9</text>
+</g>
+<g transform="translate(3.000000, 8.000000)">
+	<g>
+		<g class="st12">
+			<circle id="path-19_1_" class="st2" cx="390" cy="117.3" r="13"/>
+		</g>
+		<g>
+			<circle class="st3" cx="390" cy="117.3" r="13"/>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 383.1761 121.3453)" class="st25 st26 st27 st28">10</text>
+</g>
+<g transform="translate(3.000000, 8.000000)">
+	<g>
+		<g class="st13">
+			<circle id="path-21_1_" class="st2" cx="329.9" cy="307.1" r="13"/>
+		</g>
+		<g>
+			<circle class="st3" cx="329.9" cy="307.1" r="13"/>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 323.075 311.0873)" class="st25 st26 st27 st28">11</text>
+</g>
+<g transform="translate(3.000000, 8.000000)">
+	<g>
+		<g class="st14">
+			<circle id="path-23_1_" class="st2" cx="50.9" cy="483.3" r="13"/>
+		</g>
+		<g>
+			<circle class="st3" cx="50.9" cy="483.3" r="13"/>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 44.015 487.2947)" class="st25 st26 st27 st28">12</text>
+</g>
+<g transform="translate(3.000000, 8.000000)">
+	<g>
+		<g class="st15">
+			<circle id="path-25_1_" class="st2" cx="122.3" cy="496.3" r="13"/>
+		</g>
+		<g>
+			<circle class="st3" cx="122.3" cy="496.3" r="13"/>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 115.4476 500.2947)" class="st25 st26 st27 st28">13</text>
+</g>
+<g transform="translate(3.000000, 8.000000)">
+	<g>
+		<g class="st16">
+			<circle id="path-27_1_" class="st2" cx="89.3" cy="561" r="13"/>
+		</g>
+		<g>
+			<circle class="st3" cx="89.3" cy="561" r="13"/>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 82.4085 564.9597)" class="st25 st26 st27 st28">14</text>
+</g>
+</svg>

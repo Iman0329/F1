@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="768px" height="600px" viewBox="0 0 768 600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Race Track 10 Le Castellet</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="13" cy="13" r="13"></circle>
+        <filter x="-215.4%" y="-153.8%" width="530.8%" height="530.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="16" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="16" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.628825005   0 0 0 0 0.850290581   0 0 0 0 0.886973505  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-3" cx="13" cy="13" r="13"></circle>
+        <filter x="-215.4%" y="-153.8%" width="530.8%" height="530.8%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="16" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="16" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.628825005   0 0 0 0 0.850290581   0 0 0 0 0.886973505  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-5" cx="13" cy="13" r="13"></circle>
+        <filter x="-215.4%" y="-153.8%" width="530.8%" height="530.8%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="16" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="16" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.628825005   0 0 0 0 0.850290581   0 0 0 0 0.886973505  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-7" cx="13" cy="13" r="13"></circle>
+        <filter x="-215.4%" y="-153.8%" width="530.8%" height="530.8%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="16" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="16" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.628825005   0 0 0 0 0.850290581   0 0 0 0 0.886973505  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-9" cx="13" cy="13" r="13"></circle>
+        <filter x="-215.4%" y="-153.8%" width="530.8%" height="530.8%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="0" dy="16" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="16" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.628825005   0 0 0 0 0.850290581   0 0 0 0 0.886973505  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-11" cx="13" cy="13" r="13"></circle>
+        <filter x="-215.4%" y="-153.8%" width="530.8%" height="530.8%" filterUnits="objectBoundingBox" id="filter-12">
+            <feOffset dx="0" dy="16" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="16" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.628825005   0 0 0 0 0.850290581   0 0 0 0 0.886973505  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-13" cx="13" cy="13" r="13"></circle>
+        <filter x="-215.4%" y="-153.8%" width="530.8%" height="530.8%" filterUnits="objectBoundingBox" id="filter-14">
+            <feOffset dx="0" dy="16" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="16" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.628825005   0 0 0 0 0.850290581   0 0 0 0 0.886973505  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-15" cx="13" cy="13" r="13"></circle>
+        <filter x="-215.4%" y="-153.8%" width="530.8%" height="530.8%" filterUnits="objectBoundingBox" id="filter-16">
+            <feOffset dx="0" dy="16" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="16" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.628825005   0 0 0 0 0.850290581   0 0 0 0 0.886973505  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-17" cx="13" cy="13" r="13"></circle>
+        <filter x="-215.4%" y="-153.8%" width="530.8%" height="530.8%" filterUnits="objectBoundingBox" id="filter-18">
+            <feOffset dx="0" dy="16" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="16" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.628825005   0 0 0 0 0.850290581   0 0 0 0 0.886973505  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-19" cx="13" cy="13" r="13"></circle>
+        <filter x="-215.4%" y="-153.8%" width="530.8%" height="530.8%" filterUnits="objectBoundingBox" id="filter-20">
+            <feOffset dx="0" dy="16" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="16" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.628825005   0 0 0 0 0.850290581   0 0 0 0 0.886973505  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-21" cx="13" cy="13" r="13"></circle>
+        <filter x="-215.4%" y="-153.8%" width="530.8%" height="530.8%" filterUnits="objectBoundingBox" id="filter-22">
+            <feOffset dx="0" dy="16" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="16" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.628825005   0 0 0 0 0.850290581   0 0 0 0 0.886973505  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-23" cx="13" cy="13" r="13"></circle>
+        <filter x="-215.4%" y="-153.8%" width="530.8%" height="530.8%" filterUnits="objectBoundingBox" id="filter-24">
+            <feOffset dx="0" dy="16" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="16" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.628825005   0 0 0 0 0.850290581   0 0 0 0 0.886973505  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-25" cx="13" cy="13" r="13"></circle>
+        <filter x="-215.4%" y="-153.8%" width="530.8%" height="530.8%" filterUnits="objectBoundingBox" id="filter-26">
+            <feOffset dx="0" dy="16" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="16" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.628825005   0 0 0 0 0.850290581   0 0 0 0 0.886973505  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-27" cx="13" cy="13" r="13"></circle>
+        <filter x="-215.4%" y="-153.8%" width="530.8%" height="530.8%" filterUnits="objectBoundingBox" id="filter-28">
+            <feOffset dx="0" dy="16" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="16" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.628825005   0 0 0 0 0.850290581   0 0 0 0 0.886973505  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-29" cx="13" cy="13" r="13"></circle>
+        <filter x="-215.4%" y="-153.8%" width="530.8%" height="530.8%" filterUnits="objectBoundingBox" id="filter-30">
+            <feOffset dx="0" dy="16" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="16" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.628825005   0 0 0 0 0.850290581   0 0 0 0 0.886973505  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Race-Track-10-Le-Castellet" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(3.000000, 39.000000)">
+            <polygon id="Triangle" fill="#0C111B" transform="translate(432.589844, 335.714844) rotate(-47.000000) translate(-432.589844, -335.714844) " points="432.589844 322.714844 440.589844 348.714844 424.589844 348.714844"></polygon>
+            <g id="Buttons/POI" transform="translate(255.000000, 200.000000)">
+                <g id="POI-Copy-8" transform="translate(3.000000, 8.000000)">
+                    <g id="Oval">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#A0D9E2" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <text id="10" font-family="NeueHaasUnicaPro-Bold, Neue Haas Unica Pro" font-size="12" font-weight="bold" line-spacing="40" letter-spacing="-1.33333333" fill="#1D1D1B">
+                        <tspan x="9.06666667" y="17">1</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Buttons/POI" transform="translate(184.000000, 200.000000)">
+                <g id="POI-Copy-8" transform="translate(3.000000, 8.000000)">
+                    <g id="Oval">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                        <use fill="#A0D9E2" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    </g>
+                    <text id="10" font-family="NeueHaasUnicaPro-Bold, Neue Haas Unica Pro" font-size="12" font-weight="bold" line-spacing="40" letter-spacing="-1.33333333" fill="#1D1D1B">
+                        <tspan x="9.06666667" y="17">2</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Buttons/POI" transform="translate(51.000000, 115.000000)">
+                <g id="POI-Copy-8" transform="translate(3.000000, 8.000000)">
+                    <g id="Oval">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                        <use fill="#A0D9E2" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    </g>
+                    <text id="10" font-family="NeueHaasUnicaPro-Bold, Neue Haas Unica Pro" font-size="12" font-weight="bold" line-spacing="40" letter-spacing="-1.33333333" fill="#1D1D1B">
+                        <tspan x="9.06666667" y="17">3</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Buttons/POI" transform="translate(42.000000, 80.000000)">
+                <g id="POI-Copy-8" transform="translate(3.000000, 8.000000)">
+                    <g id="Oval">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                        <use fill="#A0D9E2" fill-rule="evenodd" xlink:href="#path-7"></use>
+                    </g>
+                    <text id="10" font-family="NeueHaasUnicaPro-Bold, Neue Haas Unica Pro" font-size="12" font-weight="bold" line-spacing="40" letter-spacing="-1.33333333" fill="#1D1D1B">
+                        <tspan x="9.06666667" y="17">4</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Buttons/POI" transform="translate(0.000000, 62.000000)">
+                <g id="POI-Copy-8" transform="translate(3.000000, 8.000000)">
+                    <g id="Oval">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                        <use fill="#A0D9E2" fill-rule="evenodd" xlink:href="#path-9"></use>
+                    </g>
+                    <text id="10" font-family="NeueHaasUnicaPro-Bold, Neue Haas Unica Pro" font-size="12" font-weight="bold" line-spacing="40" letter-spacing="-1.33333333" fill="#1D1D1B">
+                        <tspan x="9.06666667" y="17">5</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Buttons/POI" transform="translate(27.000000, 0.000000)">
+                <g id="POI-Copy-8" transform="translate(3.000000, 8.000000)">
+                    <g id="Oval">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
+                        <use fill="#A0D9E2" fill-rule="evenodd" xlink:href="#path-11"></use>
+                    </g>
+                    <text id="10" font-family="NeueHaasUnicaPro-Bold, Neue Haas Unica Pro" font-size="12" font-weight="bold" line-spacing="40" letter-spacing="-1.33333333" fill="#1D1D1B">
+                        <tspan x="9.06666667" y="17">6</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Buttons/POI" transform="translate(109.000000, 60.000000)">
+                <g id="POI-Copy-8" transform="translate(3.000000, 8.000000)">
+                    <g id="Oval">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-14)" xlink:href="#path-13"></use>
+                        <use fill="#A0D9E2" fill-rule="evenodd" xlink:href="#path-13"></use>
+                    </g>
+                    <text id="10" font-family="NeueHaasUnicaPro-Bold, Neue Haas Unica Pro" font-size="12" font-weight="bold" line-spacing="40" letter-spacing="-1.33333333" fill="#1D1D1B">
+                        <tspan x="9.06666667" y="17">7</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Buttons/POI" transform="translate(420.000000, 182.000000)">
+                <g id="POI-Copy-8" transform="translate(3.000000, 8.000000)">
+                    <g id="Oval">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-16)" xlink:href="#path-15"></use>
+                        <use fill="#A0D9E2" fill-rule="evenodd" xlink:href="#path-15"></use>
+                    </g>
+                    <text id="10" font-family="NeueHaasUnicaPro-Bold, Neue Haas Unica Pro" font-size="12" font-weight="bold" line-spacing="40" letter-spacing="-1.33333333" fill="#1D1D1B">
+                        <tspan x="9.06666667" y="17">8</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Buttons/POI" transform="translate(468.000000, 171.000000)">
+                <g id="POI-Copy-8" transform="translate(3.000000, 8.000000)">
+                    <g id="Oval">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-18)" xlink:href="#path-17"></use>
+                        <use fill="#A0D9E2" fill-rule="evenodd" xlink:href="#path-17"></use>
+                    </g>
+                    <text id="10" font-family="NeueHaasUnicaPro-Bold, Neue Haas Unica Pro" font-size="12" font-weight="bold" line-spacing="40" letter-spacing="-1.33333333" fill="#1D1D1B">
+                        <tspan x="9.06666667" y="17">9</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Buttons/POI" transform="translate(715.000000, 299.000000)">
+                <g id="POI-Copy-8" transform="translate(3.000000, 8.000000)">
+                    <g id="Oval">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-20)" xlink:href="#path-19"></use>
+                        <use fill="#A0D9E2" fill-rule="evenodd" xlink:href="#path-19"></use>
+                    </g>
+                    <text id="10" font-family="NeueHaasUnicaPro-Bold, Neue Haas Unica Pro" font-size="12" font-weight="bold" line-spacing="40" letter-spacing="-1.33333333" fill="#1D1D1B">
+                        <tspan x="6.13333333" y="17">10</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Buttons/POI" transform="translate(660.000000, 479.000000)">
+                <g id="POI-Copy-8" transform="translate(3.000000, 8.000000)">
+                    <g id="Oval">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-22)" xlink:href="#path-21"></use>
+                        <use fill="#A0D9E2" fill-rule="evenodd" xlink:href="#path-21"></use>
+                    </g>
+                    <text id="10" font-family="NeueHaasUnicaPro-Bold, Neue Haas Unica Pro" font-size="12" font-weight="bold" line-spacing="40" letter-spacing="-1.33333333" fill="#1D1D1B">
+                        <tspan x="6.13333333" y="17">11</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Buttons/POI" transform="translate(676.000000, 359.000000)">
+                <g id="POI-Copy-8" transform="translate(3.000000, 8.000000)">
+                    <g id="Oval">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-24)" xlink:href="#path-23"></use>
+                        <use fill="#A0D9E2" fill-rule="evenodd" xlink:href="#path-23"></use>
+                    </g>
+                    <text id="10" font-family="NeueHaasUnicaPro-Bold, Neue Haas Unica Pro" font-size="12" font-weight="bold" line-spacing="40" letter-spacing="-1.33333333" fill="#1D1D1B">
+                        <tspan x="6.13333333" y="17">12</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Buttons/POI" transform="translate(602.000000, 380.000000)">
+                <g id="POI-Copy-8" transform="translate(3.000000, 8.000000)">
+                    <g id="Oval">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-26)" xlink:href="#path-25"></use>
+                        <use fill="#A0D9E2" fill-rule="evenodd" xlink:href="#path-25"></use>
+                    </g>
+                    <text id="10" font-family="NeueHaasUnicaPro-Bold, Neue Haas Unica Pro" font-size="12" font-weight="bold" line-spacing="40" letter-spacing="-1.33333333" fill="#1D1D1B">
+                        <tspan x="6.13333333" y="17">13</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Buttons/POI" transform="translate(524.000000, 297.000000)">
+                <g id="POI-Copy-8" transform="translate(3.000000, 8.000000)">
+                    <g id="Oval">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-28)" xlink:href="#path-27"></use>
+                        <use fill="#A0D9E2" fill-rule="evenodd" xlink:href="#path-27"></use>
+                    </g>
+                    <text id="10" font-family="NeueHaasUnicaPro-Bold, Neue Haas Unica Pro" font-size="12" font-weight="bold" line-spacing="40" letter-spacing="-1.33333333" fill="#1D1D1B">
+                        <tspan x="6.13333333" y="17">14</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="Buttons/POI" transform="translate(508.000000, 391.000000)">
+                <g id="POI-Copy-8" transform="translate(3.000000, 8.000000)">
+                    <g id="Oval">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-30)" xlink:href="#path-29"></use>
+                        <use fill="#A0D9E2" fill-rule="evenodd" xlink:href="#path-29"></use>
+                    </g>
+                    <text id="10" font-family="NeueHaasUnicaPro-Bold, Neue Haas Unica Pro" font-size="12" font-weight="bold" line-spacing="40" letter-spacing="-1.33333333" fill="#1D1D1B">
+                        <tspan x="6.13333333" y="17">15</tspan>
+                    </text>
+                </g>
+            </g>
+            <path d="M515.623078,380.930109 L278.40296,198.846348 C278.40296,198.846348 271.570788,190.500818 261.70257,198.846348 L249.176921,208.329936 C249.176921,208.329936 240.447399,216.29635 226.783768,208.709052 L208.564642,198.846348 C208.564642,198.846348 200.21516,193.282899 196.419034,188.983644 C192.62362,184.684388 187.310184,179.373921 174.65833,169.510504 C162.006477,159.6478 160.741576,157.371682 144.546719,148.773171 L120.761747,138.404505 C120.761747,138.404505 110.134162,132.841056 99.7596987,126.265682 L83.8186768,117.161922 C83.8186768,117.161922 77.9989952,114.632822 79.0107727,105.023099 C79.0107727,105.023099 82.8061862,88.5843091 74.9622366,83.5268228 C67.1182869,78.4686238 63.8284057,79.4805486 63.8284057,79.4805486 L43.8388476,80.4917609 C43.8388476,80.4917609 33.7175073,80.9977233 37.5129208,71.3880004 C41.3083343,61.7782775 45.8631157,50.3976862 45.8631157,50.3976862 C45.8631157,50.3976862 51.9359199,34.9708207 70.1543325,44.328275 C88.3734582,53.6850166 96.2174078,72.905175 96.2174078,72.905175 C96.2174078,72.905175 101.024599,82.5148979 103.555112,91.619371 C106.085626,100.723131 135.943401,108.81568 135.943401,108.81568 L437.309073,225.147842 C437.309073,225.147842 442.875632,226.664304 447.430414,221.859799 L457.804877,213.767251 C457.804877,213.767251 467.166849,206.179952 473.999021,215.790388 C480.831193,225.400111 477.03578,225.147842 484.373484,230.964272 C491.711902,236.780702 515.623078,252.965799 515.623078,252.965799 C515.623078,252.965799 526.377581,259.288191 540.294335,264.598659 L697.429303,324.534539 C697.429303,324.534539 729.565182,335.66215 730.323837,368.791286 C731.083205,401.920423 730.323837,446.429438 730.323837,446.429438 C730.323837,446.429438 729.058937,474.501088 702.237207,478.800344 C675.414764,483.098886 666.305914,459.074223 666.305914,459.074223 C666.305914,459.074223 662.257378,447.441363 682.500059,425.439124 C702.743452,403.437597 708.056889,387.252501 708.056889,387.252501 C708.056889,387.252501 713.117202,362.974856 693.887012,362.468894 C693.887012,362.468894 688.573576,360.698025 676.174132,369.549517 C663.775401,378.401009 638.977938,378.65399 638.977938,378.65399 C638.977938,378.65399 612.915576,381.182377 590.142382,363.733087 C590.142382,363.733087 584.828946,358.928582 573.948238,348.559203 C563.067529,338.190536 555.476702,339.708424 555.476702,339.708424 C555.476702,339.708424 534.727776,337.179324 531.184772,360.192776 C531.184772,360.192776 530.426118,365.503956 531.184772,375.619641 C531.94414,385.734614 528.354077,390.70231 515.623078,380.930109 Z" id="Stroke-1" stroke="#011321" stroke-width="2"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tickets</title>
+    <link rel="stylesheet" href="./css/reset.css">
+    <link rel="stylesheet" href="./css/tickets.css">
+    <link rel="stylesheet" href="./css/bootstrap.min.css">
+    <link rel="stylesheet" href="./font-awesome-4.7.0/css/font-awesome.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative&family=Tourney:wght@700&display=swap" rel="stylesheet">  
+
+    <script src="./_js/jquery.min.js"></script>
+    <script src="./_js/popper.min.js"></script>
+    <script src="./_js/bootstrap.min.js"></script>
+    <script src="./_js/tickets.js"></script>
+</head>
+<body>
+    <header>
+        <div class="header-item container">
+            <h1 class="logo">
+                <a href="./home.html">
+                    <img src="./picture/f1white.png" alt="logo">
+                </a>
+            </h1>
+            <nav class="navside">
+                <a href="./about.html">About F1</a>
+                <a href="./schedule.html">Schedule</a>
+                <a href="./drivers.html">Teams & Drivers</a>
+                <a href="./tickets.html">Tickets</a>
+            </nav>
+            <label for="navswitch">
+                <i class="fa fa-bars" aria-hidden="true"></i>
+            </label>
+        </div>
+    </header>
+    <main>
+        <div class="head"><h2>FORMULA ONE Race tickets</h2></div>
+        <section>
+            <div class="section-item container">
+                <div class="result">
+                    <div class="calender">
+                        <span>Choose a day : </span> <input type="date" id="day">
+                        <div onclick="getchooseday()" class="confirmreset" style="background-color: white;">Confirm</div>
+                        <div onclick="clearchoose()" class="confirmreset" style="background-color: white;">Reset</div>
+                    </div>
+                    <div class="text">
+                        <p class="race"><span id="grandsprix"></span></p> <br>
+                    </div> 
+                    <div class="text">
+                        <p class="seatavailable"><span id="seats"></span> </p> <br>
+                    </div> 
+                    <div class="text youchoose">
+                        <p class="yourseat"><span id="youchoose"></span> </p> <br>
+                    </div> 
+                    <div class="text">
+                        <p class="choose"> <span id="seatschoose"></span> </p> <br>
+                    </div> 
+                </div>
+            </div>
+    </main>
+    <footer>
+        <div class="footer-item container">
+            <div class="footer-item-copy">
+                &copy;2021. Design by Iman
+            </div>
+            <div class="footer-item-social">
+                <a href="#"><i class="fa fa-facebook-square fa-3x" aria-hidden="true"></i></a>
+                <a href="#"><i class="fa fa-instagram fa-3x" aria-hidden="true"></i></a>
+                <a href="#"><i class="fa fa-twitter fa-3x" aria-hidden="true"></i></a>
+                <a href="#"><i class="fa fa-youtube-play fa-3x" aria-hidden="true"></i></a>
+            </div>
+        </div>
+    </footer>   
+</body>
+</html>

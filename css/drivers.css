@@ -1,0 +1,285 @@
+body .container{
+    max-width: 1200px;
+    margin: auto;
+    padding: 5px;
+    font-family: 'Tourney', cursive;
+}
+body a:hover{
+    text-decoration: none;
+}
+
+/* header */
+header{
+    width: 100%;
+    height: 50px;
+    background-color: #d00;
+}
+.header-item{
+    line-height: 40px;
+    display: flex;
+}
+.logo{
+    height: 40px;
+    margin-right: auto;
+    font-size: 0;
+}
+.logo img{
+    height:100%;
+    border-radius: 5px;
+}
+nav{
+    transform: translateX(5px);
+}
+nav a{
+    height: 50px;
+    padding: 5px 10px 0 10px;
+    display: inline-block;
+    transform: translateY(-5px);
+    color: white;
+}
+nav a:hover{
+    background-color: black;
+    color: gold;
+}
+header .fa{
+    padding: 0 10px;
+    line-height: 50px;
+    display: none;
+    color: white;
+}
+
+/* main */
+main{
+    background-color: #eee;
+}
+.head{
+    padding: 10px 20%;
+    text-align: center;
+}
+.head h2{
+    font-size: 3rem;
+    border-bottom: red 5px solid;
+    font-family: 'Tourney', cursive;
+}
+
+/* main container */
+main .container{
+    display: flex;
+    flex-wrap: wrap;
+}
+section{
+    width: calc(50% - 20px);
+    height: 270px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    background-color: white;
+    box-shadow: black 2px 2px 22px;
+    border-radius: 10px;
+    position: relative;
+}
+section .logo{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.logo h3{
+    padding: 0 20px;
+    font-size: 2.5rem;
+}
+section .section-item{
+    display: flex;
+    margin-top: 10px;
+}
+.section-item .section-item-name{
+    width: 50%;
+    z-index: 1;
+    font-family: 'Tourney', cursive;
+    position: relative;
+}
+.section-item .section-item-name .drivers-name{
+    padding: 10px 10px 13px 10px;
+    border: none;
+    background-color: white ;
+    color: black;
+    font-size: 1.2rem;
+}
+.section-item .section-item-name .drivers-name:hover{
+    box-shadow: gold 1px 1px 10px;
+    background-color: black;
+    color: gold;
+    transition: .5s;
+}
+.section-item .section-item-name .ui-state-active{
+    box-shadow: gold 1px 1px 10px;
+    background-color: black;
+    color: gold;
+}
+.section-item .section-item-name .drivers-stats{
+    width: calc(200% + 20px);
+    height: 162px;
+    padding: 5px;
+    border: 1px black solid;
+    border-radius: 0 0 10px 10px;
+    color: gold;
+    background-color: gray;
+    position: absolute;
+    top: 100%;
+    left: -10px;
+    display: none;
+    z-index: 1;
+}
+.section-item:nth-child(2) .section-item-name:nth-child(2) .drivers-stats{
+    left: calc(-100% - 10px);
+}
+.drivers-stats-item{
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+.drivers-stats-item .drivers-stats-pic{
+    width: 20%;
+}
+.drivers-stats-pic{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.drivers-stats-pic img{
+    width: 100%;
+}
+.drivers-stats-item .drivers-stats-number{
+    width: 40%;
+    padding: 0 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    text-align: left;
+}
+.picture{
+    width: 100%;
+}
+
+/* footer */
+footer{
+    width: 100%;
+    height: 100px;
+    background-color: black;
+}
+footer .footer-item{
+    line-height: 90px;
+    padding: 5px 50px;
+    display: flex;
+}
+.footer-item-copy{
+    margin-right: auto;
+    font-size: 1.3em;
+    color: white;
+}
+.footer-item-social{
+    display: flex;
+}
+.footer-item-social a{
+    padding: 0 10px;
+    display: flex;
+    align-items: center;
+    color: white;
+}
+.footer-item-social a:hover{
+    color: gold;
+}
+
+/* medium */
+@media screen and (max-width:992px) {
+    /* main container */
+    main .container{
+        justify-content: center;    
+    }
+    /* section */
+    section{
+        width: 70%;
+    }
+
+    /* car pic */
+    .picture img{
+        width: 90%;
+    }
+}
+
+/* small */
+@media screen and (max-width:768px) {
+    /* header */
+    header .fa{
+        display: block;
+        position: absolute;
+        right: 10px;
+        top: 0;
+        z-index: 5;
+    }
+    .navside{
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: 200px;
+        height: 250px;
+        padding: 50px 0 0 0;
+        background-color: #d00;
+        z-index: 3;
+        text-align: center;
+        border-radius: 0 0 0 40px;
+    }
+    .navside a{
+        transform: translateY(0);
+    }
+    nav a:last-child:hover{
+        border-radius: 0 0 0 40px;
+    }
+
+    /* section */
+    section{
+        width: 70%;
+    }
+    .section-item .section-item-name .drivers-name{
+        font-size: 1rem;
+        /* margin: 4px 0; */
+    }
+    .section-item .section-item-name .drivers-stats{
+        height: 166px;
+        font-size: .8rem;
+    }
+    
+    /* footer */
+    .footer-item-copy{
+        font-size: 1em;
+    }
+}
+
+/* extra small */
+@media screen and (max-width:600px) {
+    /* word */
+    .main-item h2,.main-item h3,.main-item h4,.main-item h5,.main-item h6,.main-item p{
+        font-size: 1rem;
+    }
+
+    /* footer */
+    footer .footer-item{
+        padding: 10px 10px 0 10px;
+    }
+}
+
+@media screen and (max-width:500px) {
+    footer{
+        height: 200px;
+    }
+    .footer-item{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .footer-item-copy{
+        margin-right: 0;
+    }
+}
